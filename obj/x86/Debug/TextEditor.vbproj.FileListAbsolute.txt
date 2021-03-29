@@ -1,0 +1,65 @@
+C:/Users/Manoj/AppData/Local/Temporary Projects/TextEditor/bin/Debug/TextEditor.exe
+C:/Users/Manoj/AppData/Local/Temporary Projects/TextEditor/bin/Debug/TextEditor.pdb
+C:/Users/Manoj/AppData/Local/Temporary Projects/TextEditor/bin/Debug/TextEditor.xml
+C:/Users/Manoj/AppData/Local/Temporary Projects/TextEditor/obj/x86/Debug/TextEditor.Form1.resources
+C:/Users/Manoj/AppData/Local/Temporary Projects/TextEditor/obj/x86/Debug/TextEditor.Resources.resources
+C:/Users/Manoj/AppData/Local/Temporary Projects/TextEditor/obj/x86/Debug/TextEditor.vbproj.GenerateResource.Cache
+C:/Users/Manoj/AppData/Local/Temporary Projects/TextEditor/obj/x86/Debug/TextEditor.exe
+C:/Users/Manoj/AppData/Local/Temporary Projects/TextEditor/obj/x86/Debug/TextEditor.xml
+C:/Users/Manoj/AppData/Local/Temporary Projects/TextEditor/obj/x86/Debug/TextEditor.pdb
+C:/Users/Manoj/documents/visual studio 2010/Projects/TextEditor/TextEditor/obj/x86/Debug/TextEditor.exe
+C:/Users/Manoj/documents/visual studio 2010/Projects/TextEditor/TextEditor/obj/x86/Debug/TextEditor.xml
+C:/Users/Manoj/documents/visual studio 2010/Projects/TextEditor/TextEditor/obj/x86/Debug/TextEditor.pdb
+C:/Users/Manoj/documents/visual studio 2010/Projects/TextEditor/TextEditor/obj/x86/Debug/TextEditor.Resources.resources
+C:/Users/Manoj/documents/visual studio 2010/Projects/TextEditor/TextEditor/obj/x86/Debug/TextEditor.vbproj.GenerateResource.Cache
+C:/Users/Manoj/documents/visual studio 2010/Projects/TextEditor/TextEditor/bin/Debug/TextEditor.exe
+C:/Users/Manoj/documents/visual studio 2010/Projects/TextEditor/TextEditor/bin/Debug/TextEditor.pdb
+C:/Users/Manoj/documents/visual studio 2010/Projects/TextEditor/TextEditor/bin/Debug/TextEditor.xml
+C:/Users/Manoj/Documents/Visual Studio 2010/Projects/TextEditor/TextEditor/obj/x86/Debug/TextEditor.AbtUs.resources
+C:/Users/Manoj/Documents/Visual Studio 2010/Projects/TextEditor/TextEditor/bin/Debug/TextEditor.exe.manifest
+C:/Users/Manoj/Documents/Visual Studio 2010/Projects/TextEditor/TextEditor/bin/Debug/TextEditor.application
+C:/Users/Manoj/Documents/Visual Studio 2010/Projects/TextEditor/TextEditor/obj/x86/Debug/TextEditor.TrustInfo.xml
+C:/Users/Manoj/Documents/Visual Studio 2010/Projects/TextEditor/TextEditor/obj/x86/Debug/TextEditor.exe.manifest
+C:/Users/Manoj/Documents/Visual Studio 2010/Projects/TextEditor/TextEditor/obj/x86/Debug/TextEditor.application
+C:/Users/Manoj/Documents/Visual Studio 2010/Projects/TextEditor/TextEditor/obj/x86/Debug/TextEditor.Main.resources
+H:/TextEditor/TextEditor/obj/x86/Debug/TextEditor.exe
+H:/TextEditor/TextEditor/obj/x86/Debug/TextEditor.xml
+H:/TextEditor/TextEditor/obj/x86/Debug/TextEditor.pdb
+H:/TextEditor/TextEditor/bin/Debug/TextEditor.exe.manifest
+H:/TextEditor/TextEditor/bin/Debug/TextEditor.application
+H:/TextEditor/TextEditor/bin/Debug/TextEditor.exe
+H:/TextEditor/TextEditor/bin/Debug/TextEditor.pdb
+H:/TextEditor/TextEditor/bin/Debug/TextEditor.xml
+H:/TextEditor/TextEditor/obj/x86/Debug/TextEditor.AbtUs.resources
+H:/TextEditor/TextEditor/obj/x86/Debug/TextEditor.Main.resources
+H:/TextEditor/TextEditor/obj/x86/Debug/TextEditor.Resources.resources
+H:/TextEditor/TextEditor/obj/x86/Debug/TextEditor.vbproj.GenerateResource.Cache
+H:/TextEditor/TextEditor/obj/x86/Debug/TextEditor.TrustInfo.xml
+H:/TextEditor/TextEditor/obj/x86/Debug/TextEditor.exe.manifest
+H:/TextEditor/TextEditor/obj/x86/Debug/TextEditor.application
+F:/Projects/TextEditor/Original/TextEditor/obj/x86/Debug/TextEditor.exe
+F:/Projects/TextEditor/Original/TextEditor/obj/x86/Debug/TextEditor.xml
+F:/Projects/TextEditor/Original/TextEditor/obj/x86/Debug/TextEditor.pdb
+F:/Projects/TextEditor/Original/TextEditor/obj/x86/Debug/TextEditor.vbprojResolveAssemblyReference.cache
+F:/Projects/TextEditor/Original/TextEditor/obj/x86/Debug/TextEditor.AbtUs.resources
+F:/Projects/TextEditor/Original/TextEditor/obj/x86/Debug/TextEditor.Main.resources
+F:/Projects/TextEditor/Original/TextEditor/obj/x86/Debug/TextEditor.Resources.resources
+F:/Projects/TextEditor/Original/TextEditor/obj/x86/Debug/TextEditor.vbproj.GenerateResource.Cache
+F:/Projects/TextEditor/Original/TextEditor/bin/Debug/TextEditor.exe.manifest
+F:/Projects/TextEditor/Original/TextEditor/bin/Debug/TextEditor.application
+F:/Projects/TextEditor/Original/TextEditor/bin/Debug/TextEditor.exe
+F:/Projects/TextEditor/Original/TextEditor/bin/Debug/TextEditor.pdb
+F:/Projects/TextEditor/Original/TextEditor/bin/Debug/TextEditor.xml
+F:/Projects/TextEditor/Original/TextEditor/obj/x86/Debug/TextEditor.TrustInfo.xml
+F:/Projects/TextEditor/Original/TextEditor/obj/x86/Debug/TextEditor.exe.manifest
+F:/Projects/TextEditor/Original/TextEditor/obj/x86/Debug/TextEditor.application
+F:/Projects/TextEditor/Original/TextEditor/bin/Debug/TextEditor.exe.config
+F:/Projects/TextEditor/Original/TextEditor/obj/x86/Debug/TextEditor.FontMaper.resources
+F:/Projects/TextEditor/Original/TextEditor/bin/Debug/EmptyMapAllChars.xml
+F:/Projects/TextEditor/Original/TextEditor/obj/x86/Debug/TextEditor.Edit_Template.resources
+F:/Projects/TextEditor/Original/TextEditor/obj/x86/Debug/TextEditor.FontCharsForm.resources
+F:/Projects/TextEditor/Original/TextEditor/bin/Debug/GenFontMapForFMAbhaya.xml
+F:/Projects/TextEditor/Original/TextEditor/bin/Debug/GenFontMapForFMAbhaya2.xml
+/media/cc/Projects/Code projects/Original/TextEditor/obj/x86/Debug/TextEditor.exe
+/media/cc/Projects/Code projects/Original/TextEditor/obj/x86/Debug/TextEditor.xml
+/media/cc/Projects/Code projects/Original/TextEditor/obj/x86/Debug/TextEditor.pdb
